@@ -1,0 +1,9 @@
+- Lleva tabla de posiciones de los jugadores durante un torneo
+- Determinar las mesas para cada ronda, evitando que se repitan mesas de matches anteriores
+- Llevar un seguimiento de los logros
+- Permitir a los jugadores entregar los logros presentados durante un match
+- Control de tiempo
+- Tres vistas principales:
+	- administrador: ingresa jugadores, ingresa logros, inicia rondas, inicia torneo, termina torneo.
+	- jugador: ingresa logros, ingresa posición.
+	- scorer: presenta planta de posiciones entre rondas y al final del torneo, presenta tiempo de ronda, presenta jugadores inscritos al torneo.
