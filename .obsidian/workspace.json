@@ -48,9 +48,107 @@
               "icon": "lucide-file",
               "title": "Scorer"
             }
+          },
+          {
+            "id": "773dc100d5e6b924",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locking mechanisms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Locking mechanisms"
+            }
+          },
+          {
+            "id": "4d8fbe01440daae7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atomicity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Atomicity"
+            }
+          },
+          {
+            "id": "bb778f457f74aa2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Volatility.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Volatility"
+            }
+          },
+          {
+            "id": "e55eb12f8fc213e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stefanini questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stefanini questions"
+            }
+          },
+          {
+            "id": "73568a7736746132",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2PC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2PC"
+            }
+          },
+          {
+            "id": "64983c94244bdd4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Runnable vs Callable.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Runnable vs Callable"
+            }
+          },
+          {
+            "id": "5f897186dda66b3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2PC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2PC"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -112,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "df436081a9ce6c74",
@@ -228,10 +327,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8760247a4592ad8f",
+  "active": "e55eb12f8fc213e6",
   "lastOpenFiles": [
-    "CPP/VS Code CPP Setup.md",
+    "2PC.md",
+    "Stefanini questions.md",
+    "Thread lifecycle.md",
+    "Volatility.md",
+    "Runnable vs Callable.md",
+    "Atomicity.md",
+    "Locking mechanisms.md",
     "MTG/Scorer.md",
+    "Java Prep",
+    "CPP/VS Code CPP Setup.md",
     "CPP/From Java to CPP.md",
     "CPP",
     "Hackerank/orchestrate/Web resources.md",
