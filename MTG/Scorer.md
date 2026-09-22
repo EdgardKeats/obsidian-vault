@@ -8,3 +8,7 @@
 	- administrador: ingresa jugadores, ingresa logros, inicia rondas, inicia torneo, termina torneo.
 	- jugador: ingresa logros, ingresa posición.
 	- scorer: presenta planta de posiciones entre rondas y al final del torneo, presenta tiempo de ronda, presenta jugadores inscritos al torneo.
+- torneo
+	- se compone de rondas y jugadores
+	- cada ronda se compone de mesas con 3 o 4 jugadores
+	- al finalizar una ronda, se debe registrar posiciones de cada jugador en la mesa, además de logros realizados por cada uno de los jugadores
