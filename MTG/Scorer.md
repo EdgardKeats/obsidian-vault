@@ -6,7 +6,7 @@
 - Tres vistas principales: administrador, jugador, scorer.
 - casos de uso:
 	- administrador: ingresa jugadores, ingresa logros, inicia rondas, inicia torneo, termina torneo.
-	- jugador: ingresa logros, ingresa posición.
+	- jugador: ingresa logros, ingresa posición en la ronda.
 	- scorer: presenta planta de posiciones entre rondas y al final del torneo, presenta tiempo de ronda, presenta jugadores inscritos al torneo.
 - torneo
 	- se compone de rondas y jugadores
